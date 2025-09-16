@@ -1,8 +1,6 @@
 public class novelClass {
-    private String title;
-    private String author;
+    private String title, author, genre;
     private int ISBNT;
-    private String genre;
     private double price;
 
     //Constructor Parameter
@@ -58,3 +56,4 @@ public class novelClass {
         System.out.println();
     }
 }
+
